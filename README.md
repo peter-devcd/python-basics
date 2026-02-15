@@ -11,3 +11,5 @@ Programs Included:-
 3] String Reversal.
 
 4] Factorial by While loop.
+
+5] Number type checker(positive/negative/zero).
