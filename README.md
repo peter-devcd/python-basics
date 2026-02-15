@@ -4,8 +4,10 @@ This repository contains beginner-level Python programs that I built while learn
 
 Programs Included:-
 
-1] Even or Odd Checker
+1] Even or Odd Checker.
 
-2] Factorial Calculator
+2] Factorial Calculator.
 
-3] String Reversal
+3] String Reversal.
+
+4] Factorial by While loop.
